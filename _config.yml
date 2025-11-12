@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Kai Chong ML Portfolio"
+title                    : "Kai Chong's ML Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kai Chong"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Kai Chong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an Applied Scientist and Machine Learning Engineer. I build ML systems for search, recommender systems, and entity resolution to support software products. Previously, I was a defence scientist in Singapore, specializing in information retrieval, and a research assistant and graduate student at the MIT Media Lab’s Human Dynamics group. My academic work focused on extracting macro-level social and economic insights from large-scale behavioral data, with publications in EPJ Data Science and Entropy."
+  bio              : "Short Bio"
   location         : "Switzerland"
   email            : "chongshikai@gmail.com"
   links:
