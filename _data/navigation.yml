@@ -11,8 +11,9 @@ sidebar:
         url: /projects/project2/
       - title: "Project 3"
         url: /projects/project3/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  
+  - title: "Learn"
+    url: /blog/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
