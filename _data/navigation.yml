@@ -3,7 +3,7 @@ sidebar:
   - title: "Resume"
     url: /resume/
   - title: "Projects"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /projects/
     children:
       - title: "Project 1"
         url: /projects/project1/
