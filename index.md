@@ -3,7 +3,7 @@ layout: single
 title: "Hi, I’m Kai 👋"
 permalink: /
 sidebar: 
-    nav: "main"
+    nav: "sidebar"
 ---
 
 I build machine learning systems and data products.
