@@ -325,3 +325,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+head_custom: true
+include:
+  - assets/css/custom.css
