@@ -4,6 +4,7 @@ title: "Hi, I’m Kai 👋"
 permalink: /
 sidebar: 
     nav: "sidebar"
+author_profile: true
 ---
 
 I build machine learning systems and data products.
