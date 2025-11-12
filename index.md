@@ -1,10 +1,8 @@
 ---
-layout: home
+layout: single
 title: "Hi, I’m Kai 👋"
 permalink: /
-sidebar:
-  - type: include
-    include: sidebar.html
+sidebar: true
 ---
 
 I build machine learning systems and data products.
